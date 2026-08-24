@@ -1,9 +1,5 @@
 # 9899/32 - ANÁLISE E PROJETO DE SOFTWARE
 
-# Engenharia de software
-
-![Banner da disciplina](./assets/image.png)
-
 Repositório oficial para organização e acompanhamento da disciplina 
 
 ## Objetivos
@@ -26,11 +22,9 @@ Repositório oficial para organização e acompanhamento da disciplina
 2. Para cada atividade/projeto, verifique o enunciado, critérios e prazos em **atividades**.
 3. Submeta entregas seguindo o padrão definido para sua turma/equipe.
 
-## Turmas
+## Diagramas e documentação
 
-- 12032 - 2
-
-## Diagramas
+https://whimsical.com/
 
 https://mermaid.ai/
 
