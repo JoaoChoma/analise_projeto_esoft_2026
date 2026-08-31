@@ -1,8 +1,3 @@
----
-title: "Padrão Sistemático para Regras de Negócio e Requisitos de Software"
-subtitle: "Da descoberta do problema à evolução do sistema"
----
-
 # ATIVIDADE 02: FORMALIZAR AS REGRAS DE NEGÓCIO E REQUISITOS DO PRODUTO
 
 # Como padronizar? 
