@@ -1,5 +1,43 @@
-eu Pablo terminei a task 18;
+# ENTREGAS até 02/12 às 19:31
 
+Projeto de 01 caso de uso;
+
+
+# Ciclo de implementação
+
+## Para concluir
+
+- diagrama de classes;
+- melhorias em todo o projeto;
+
+## Implementação
+
+- Jira -> ciclos de 07 dias;
+- task, story, epic, bug;
+- Github - cada task do Jira vai se tornar uma branche no Github;
+- 01 caso de uso (não login e relatório)
+  - regras negócio,
+  - requisitos (funcional e não funcional)
+  - definição do UC;
+  - diagrama sequência;
+  - diagrama classes;
+- Interface gráfica, back-end (API REST), banco de dados;
+
+Epic > Story > (task == bug)
+
+Epic -> UC 006
+1. implementacao da GUI UC 006
+2. implementacao do CRUD Pessoa 
+3. implementacao do CRUD Produto
+
+...
+
+47. implementacao da GUI do UC 006
+
+
+## Primeira spring começa 04/11
+
+---
 
 # 9899/32 - ANÁLISE E PROJETO DE SOFTWARE
 
